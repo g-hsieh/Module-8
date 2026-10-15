@@ -1,8 +1,8 @@
 print("Begin displaying the first 20 numbers by using the Fibonacci sequence.")
 print()
 
-firstNumber = 0
-secondNumber = 1
+firstNumber = 1
+secondNumber = 2
 
 for count in range(20):
     print(firstNumber)
